@@ -1,0 +1,6 @@
+#Challenge Extra
+## This lab profle the Windows VM does not boot.
+
+Issue: This lab has recently had a new VM machine uploaded to it.  The VM has been added to the Lab Profile and the Virtual Hard Disk is known to be good yet the VM does not boot.
+
+>[!Note]In case you decided to remove and readd the virtual disk, the virtual disk name and location is in the decription field of the VM Profile.
