@@ -9,4 +9,4 @@ Issue: During testing it has been discovered that the website on VM WKS-11 is no
  - Try connecting from your local browser to the ip address ++@lab.VirtualMachine(pFsense-Scenario1-2).NetworkAdapter(WAN).IpAddress++
 
   #Website Image
-  !IMAGE[s6ener3t.jpg](s6ener3t.jpg)
+  !IMAGE[Under Construction](images/s6ener3t.jpg)
