@@ -1,0 +1,4 @@
+#Challenge 3 - Scenario 2
+## The Windows VM screen resolution does not change when the lab window size is changed.
+
+Issue: The virtual machine in this lab does not dynamically change its screen resolution based on the browser window size.  The virtual machine is running on vSphere.
