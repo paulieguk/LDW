@@ -8,5 +8,7 @@ Issue: During testing it has been discovered that the website on VM WKS-11 is no
  - All firewalls have been tested and are configured correctly.  The pFsense has to remain to protect the Website.
  - Try connecting from your local browser to the ip address ++@lab.VirtualMachine(pFsense-Scenario1-2).NetworkAdapter(WAN).IpAddress++
 
+>[!Alert] Ensure both VM's a fully booted before testing.
+
   #Website Image
   !IMAGE[Under Construction](images/UnderConstruction.jpg)
