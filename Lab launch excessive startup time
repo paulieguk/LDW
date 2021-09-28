@@ -1,0 +1,4 @@
+#Challenge 2 - Scenario 1
+## This lab profle when launched has excessive startup time.
+
+Issue: This lab is designed so the first task a learner would undertake would be to install an operating system into a Virtual Machine.  Currently when launching the lab it takes over 5 minutes to load.....
