@@ -3,4 +3,4 @@
 
 Issue: This lab has had multiple lab developers that have made changes.  You as the latest lab developer need to create a new folder on the desktop called **Data** and rearm the Windows VM (**slmgr -rearm** from an admin command prompt).  However when you make the changes and they try to commit the changes the lab save process reports there are no Machines that can currently be updated.
 
-!IMAGE[8qmjuhln.jpg](8qmjuhln.jpg)
+!IMAGE[Lab update screenshot](images/UpdateLabProfile.jpg)
