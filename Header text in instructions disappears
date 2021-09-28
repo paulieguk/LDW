@@ -1,0 +1,6 @@
+#Challenge 4 - Scenario 1
+## Header level 3 text is not visable when using the Dark theme
+
+Issue: This lab profile does not display header level 3 text clearly when a Dark Theme is used.  Switch to a dark theme on the Help tab and edit the instructions experimenting with the different header levels (h1-h6).  Use the help for Header markdown syntax.  Note what happens with Header level 3.  Your challenge is to find out why and fix.....
+
+#header1
