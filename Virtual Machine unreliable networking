@@ -1,0 +1,8 @@
+#Challenge 1 - Scenario 1
+## This lab the two Windows VMs have unreliable networking.
+
+Issue: During testing it has been discovered that the networking for this lab is unreliable.  The problems can exist on either VM.  The main symptoms are:
+ - IP Address allocation (DHCP)
+ - Web browsing
+ - Communication between the two VM's
+ - Try tools like PING to establish the symptoms
